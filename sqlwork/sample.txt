@@ -1,0 +1,18 @@
+Student
+25111023 Sahil Jamdade
+25112012 Jai Kumar
+25111015 Ram Shinde
+25111123 Ria Yadav
+25112019 Geeta Pande
+25112025 Gauri Jadhav
+25112050 Tia Dhumal
+25111078 Sakshi Jamdade
+25111079 Tina Raut
+25112099 Virat Kohli
+
+Subject
+CA501 Programming
+CS502 Maths
+CS510 Physics
+CA921 Dbms
+CP854 MOC
